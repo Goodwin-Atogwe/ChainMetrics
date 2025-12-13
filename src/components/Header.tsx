@@ -29,7 +29,7 @@ export function Header({
             </div>
             <div>
               <h1 className="text-xl font-bold tracking-tight text-foreground">
-                Crypto<span className="text-primary">Pulse</span>
+                Chain<span className="text-primary">Metrics</span>
               </h1>
               <div className="flex items-center gap-2 text-xs text-muted-foreground">
                 {isRefetching && (
